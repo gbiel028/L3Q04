@@ -1,0 +1,17 @@
+h1,p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: beige;
+}
+
+button {
+    font-size: 15pt; padding: 10px;
+}
+mark{
+    background-color:greenyellow;
+}
+hr{
+    border-color: black;
+    border-width: 3px;
+}
